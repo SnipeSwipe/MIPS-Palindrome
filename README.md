@@ -3,10 +3,8 @@ MIPS-Palindrome
 
 A small code for mips. Takes a number input and checks whether palindrome or not.
 
-Based on the following C code:
+Based on the following C code-
 
-#include <stdio.h>
- 
 int main()
 {
    int n, reverse = 0, temp;
